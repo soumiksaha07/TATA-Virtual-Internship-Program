@@ -1,4 +1,11 @@
-# TATA-Virtual-Internship-Program
+# TATA-Virtual-Internship-Program<br/>
+**Introduction:** <br/>
+In this presentation, we’ll delve into the company’s sales performance during the years 2010 and 2011. I’m grateful for the opportunity to analyze this data and extract valuable insights regarding the store’s overall performance.<br/>
+
+**Tools used:** <br/>
+Microsoft Power BI
+Power BI PowerQuery<br/>
+
 Power BI Dashboard for TATA Virtual Internship Program<br/>
 **Question 1**<br/>
 The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.<br/>
