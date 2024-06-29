@@ -3,7 +3,7 @@
 In this presentation, we’ll delve into the company’s sales performance during the years 2010 and 2011. I’m grateful for the opportunity to analyze this data and extract valuable insights regarding the store’s overall performance.<br/>
 
 **Tools used:** <br/>
-Microsoft Power BI
+Microsoft Power BI <br/>
 Power BI PowerQuery<br/>
 
 #  Questions to Explore for TATA Virtual Internship Program<br/>
